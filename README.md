@@ -1,5 +1,5 @@
 # Todo-List App
-A todo-list app built using ###React | Database is not used in this.
+A todo-list app built using **React** | Database is not used in this.
 
 How to run?
 
