@@ -15,12 +15,12 @@ class App extends Component {
     todos: [
       {
         id: uuid(),
-        title: 'Take out the trash',
+        title: 'Complete Homework',
         completed: false
       },
       {
         id: uuid(),
-        title: 'Dinner with wife',
+        title: 'Go to swimming classes',
         completed: true
       },
       {

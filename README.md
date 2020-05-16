@@ -1,7 +1,7 @@
 # Todo-List App
 A todo-list app built using **React** | Database is not used in this.
 
-How to run?
+**How to run?**
 
 Step 1: Run git clone https://github.com/i-am-expert/Todo-List-App.git in your directory.  
 Step 2: Run npm install in root directory of project.  
